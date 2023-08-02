@@ -36,20 +36,14 @@ Emotify is a handy tool for streamers and Discord server owners who need to resi
 
 ## Usage
 
-
-
-```bash
-git clone https://github.com/Dartsgame974/Emotify.git
-
-
+`$ git clone https://github.com/Dartsgame974/Emotify.git`
 
 Alternatively, download the ZIP file and extract it to your desired location.
 
 ## How to Use
 
 1. Launch the executable file "Emotify.exe" or run in cmd with
-```bash
-main.py
+`$ main.py`
 
 2. Choose the directory of folder contains allthe emote  you want to resize:
    - Twitch emotes (72x72, 36x36, 18x18): `Bits` folder
@@ -57,6 +51,9 @@ main.py
    - Twitch channel points emotes (28x28, 56x56, 112x112): `Points_de_chaines` folder
 3. Run the following command:
 
-```bash
-python emotify.py
+`$ python emotify.py`
+
+### Releases
+
+On **Windows**, you can use the .exe file and on **MacOS/Linux**, you can clone the repo and run the `main.py` file with `python main.py` (or on MacOS `python3`)
 
