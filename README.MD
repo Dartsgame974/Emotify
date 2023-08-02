@@ -58,3 +58,4 @@ Alternatively, download the ZIP file and extract it to your desired location.
 
 On **Windows**, you can use the .exe file and on **MacOS/Linux**, you can clone the repo and run the `main.py` file with `python main.py` (or on MacOS `python3`)
 
+*Screen by https://github.com/OrigamingWasTaken*
