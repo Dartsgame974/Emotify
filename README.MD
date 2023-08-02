@@ -5,7 +5,8 @@
 ![Emotify Logo](https://github.com/Dartsgame974/Emotify/blob/main/icon.png?raw=true)
 
 Emotify is a Python script with a simple UI that allows you to resize images to the correct formats for Twitch emotes, Twitch bits, Twitch channel points, and Discord emotes.
-!(https://cdn.discordapp.com/attachments/1102199882653118534/1136108360983392318/iTlRkKu.png)
+
+![Screen](https://cdn.discordapp.com/attachments/1102199882653118534/1136108360983392318/iTlRkKu.png)
 ## Table of Contents
 
 - [Introduction](#introduction)
